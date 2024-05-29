@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Lavington Heights",
+    "price": "6,000,000 KES",
+    "detail": "Garden City Mall, Thika Road, Nairobi",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Karen Gardens",
+    "price": "8,500,000 KES",
+    "detail": "Karen Road, Karen, Nairobi",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Syokimau Greens",
+    "price": "4,500,000 KES",
+    "detail": "Mombasa Road, Syokimau, Machakos",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Runda Residency",
+    "price": "6,500,000 KES",
+    "detail": "Kiambu Road, Runda, Nairobi",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Westlands View",
+    "price": "7,000,000 KES",
+    "detail": "Waiyaki Way, Westlands, Nairobi",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kilimani Villas",
+    "price": "5,500,000 KES",
+    "detail": "Ngong Road, Kilimani, Nairobi",
+    "image": "./r3.png"
+  }
+]
+
